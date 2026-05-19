@@ -14,6 +14,7 @@ SYSTEM_PROMPT = """
 - 冷冰冰的参数罗列
 - 太像机构硬广或公众号通稿
 - 空洞形容词、没有画面感
+- AI味太重的文案
 """
 
 INITIAL_HUMAN_TEMPLATE = """

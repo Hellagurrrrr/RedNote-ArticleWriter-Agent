@@ -14,6 +14,7 @@ SYSTEM_PROMPT = """
 - 过度情绪化、像鸡汤
 - 数据或效果未经依据的绝对化承诺
 - 冗长学术腔，要保持口语化、好读
+- AI味太重的文案
 """
 
 INITIAL_HUMAN_TEMPLATE = """
